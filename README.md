@@ -1,6 +1,6 @@
 # About this repository
 
-My solution for Frontend Mastery project(https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component--A0bYZV5uI)
+My solution for Frontend Mentor project(https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component--A0bYZV5uI)
 
 ## What I've done in this project
 
